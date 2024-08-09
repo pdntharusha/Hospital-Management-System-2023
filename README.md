@@ -9,6 +9,13 @@ A Hospital Management System built using ASP.NET and C#. This application helps 
 - **Add Doctors**: Manage doctor profiles and details. 👩‍⚕️
 - **Appointments**: Schedule and manage patient appointments. 📅
 
+### View Details 📊
+
+- **Patients**: View and update detailed information about registered patients, including contact details and medical records.
+- **Medical History**: Access a comprehensive history of each patient's medical conditions, treatments, and visit records.
+- **Doctors**: Review profiles of doctors, including their specialties, contact information, and availability.
+- **Appointments**: Monitor and manage scheduled appointments, including patient visits and doctor schedules.
+
 ## Technologies Used 💻
 
 - **ASP.NET**: For backend development and business logic.
@@ -52,7 +59,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact 📧
 
-For any inquiries, please contact [pdntharusha@gmail.com].
-```
-
-Feel free to adjust the placeholders and details as needed!
+For any inquiries, please contact pdntharusha@gmail.com.
